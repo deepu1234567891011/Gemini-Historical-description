@@ -72,9 +72,9 @@ API handling and environment variable management
 
 Real-world AI project implementation
 
-👨‍💻 Author
+Demo video link https://drive.google.com/file/d/1zADIrpkwh1hf6Ksb18Don_Fwgx8qD78S/view?usp=sharing
 
-Your Name B.Tech Student | Python Developer | AI Enthusiast
+Your Name v.srideepika B.Tech Student | Python Developer | AI Enthusiast
 
 ⭐ Future Enhancements
 
