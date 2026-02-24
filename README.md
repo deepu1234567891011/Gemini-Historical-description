@@ -1,4 +1,4 @@
-🏺 Gemini Historical Artifact Description App 📌 Project Overview
+🏺 Gemini Historical Artifact Description App 📌 Project Overview ,Author Jeffrey Kluger
 
 The Gemini Historical Artifact Description App is an AI-powered web application that generates detailed and informative descriptions of historical artifacts and historical topics. Users can enter the name of an artifact, specify the desired word count, and optionally upload an image. The AI then generates a structured and engaging description including historical background, cultural significance, and interesting facts.
 
