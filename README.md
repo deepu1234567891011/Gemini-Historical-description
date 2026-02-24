@@ -32,7 +32,7 @@ Requests
 
 Python-dotenv
 
-📂 Project Structure gemini-historical-artifact-description/ │ ├── app.py ├── requirements.txt ├── .env ├── README.md ⚙️ Installation and Setup 1️⃣ Clone the Repository git clone https://github.com/yourusername/gemini-historical-artifact-description.git cd gemini-historical-artifact-description 2️⃣ Install Required Libraries pip install -r requirements.txt 3️⃣ Add API Key
+📂 Project Structure gemini-historical-artifact-description/ │ ├── app.py ├── requirements.txt ├── .env ├── README.md ⚙️ Installation and Setup 1️⃣ Clone the Repository git clone https://github.com/deepu1234567891011/Gemini-Historical-description/tree/master?tab=readme-ov-file cd gemini-historical-artifact-description 2️⃣ Install Required Libraries pip install -r requirements.txt 3️⃣ Add API Key
 
 Create a .env file and add:
 
